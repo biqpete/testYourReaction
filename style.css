@@ -1,0 +1,18 @@
+    
+            #time {
+                font-weight:bold;
+            }
+    
+            #shape {
+                background-color: pink;
+                height: 200px;
+                width: 200px;
+                position:relative;
+                top:100px;
+                left:200px;
+                display:none;
+            }
+    
+            body {
+                font-family: sans-serif;
+            }
